@@ -4,7 +4,7 @@ This project was made to study React and Redux based on the [Building Applicatio
 
 ## Development server
 
-Run `npm run` for a dev server. Navigate to `http://localhost:3000/`. The app will automatically reload if you change any of the source files.
+Run `npm start` for a dev server. Navigate to `http://localhost:3000/`. The app will automatically reload if you change any of the source files.
 
 ## Build
 
